@@ -5,7 +5,7 @@
 # This tool can tangodown nasa and more gov websites
 # 
 #
-# author : Hax Stroke , version 1.0
+# author : Hax B E Y R A K , version 1.0
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
